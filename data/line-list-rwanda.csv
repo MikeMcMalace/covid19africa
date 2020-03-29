@@ -12,9 +12,9 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 11,,,45,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-18-march-2020,,,,,,2020-03-16,Belgium,,"arrived on 16 March 2020 from Belgium via Addis Ababa, Ethiopia
 12,,,0,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid19-20-march-2020,,,,,,,,,domestic partner was previously confirmed positive, along with their son, aged 10 months
 13,,,30,Woman,,,Rwanda,,https://www.afro.who.int/news/update-covid19-20-march-2020,,,,,,,,,domestic partner was previously confirmed positive, along with their son, aged 10 months
-14,,,32,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid19-20-march-2020,,,,,,2020-03-19,Dubai,,"who arrived from Dubai, UAE, on 19 March 2020. His symptoms were detected by airport screening upon arrival and he was then tested
+14,,,32,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid19-20-march-2020,,,,,,2020-03-19,Dubai,,who arrived from Dubai, UAE, on 19 March 2020. His symptoms were detected by airport screening upon arrival and he was then tested
 15,,,26,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid19-20-march-2021,,,,,,2020-03-03,Sweden,,A Swedish man,26, who arrived from Sweden on 3 March 2020 and reported symptoms on 18 March 2020
-16,,,32,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid19-20-march-2022,,,,,,2020-03-18,,,A Rwandan man, 32, who is frequent traveler and reported symptoms on 18 March 2020."
+16,,,32,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid19-20-march-2022,,,,,,2020-03-18,,,A Rwandan man, 32, who is frequent traveler and reported symptoms on 18 March 2020
 17,,,24,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid19-20-march-2023,,,,,,2020-03-19,India,,A Rwandan man, 24, who arrived in Rwanda on 19 March 2020 from India via Doha, Qatar
 18,,,32,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-22-march-2020,,,,,,2020-03-19,Dubai,,A Rwandan man, 32, who arrived from Dubai, UAE, on 19 March 2020
 19,,,34,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-22-march-2020,,,,,,2020-03-20,Dubai,,A Rwandan man, 34, who arrived from Dubai, UAE, on 20 March 2020
@@ -32,12 +32,12 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 31,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-23-march-2031,,,,,,,Kenya,,Three (3) travelers from Kenya
 32,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-23-march-2032,,,,,,,USA,,Two (2) travelers from USA
 33,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-23-march-2033,,,,,,,USA,,Two (2) travelers from USA
-34,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-23-march-2034,,,,,,,Qatar,,One (1) traveler from Qatar.
-35,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-23-march-2035,,,,,,,India,,One (1) traveler from India.
+34,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-23-march-2034,,,,,,,Qatar,,One (1) traveler from Qatar
+35,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-23-march-2035,,,,,,,India,,One (1) traveler from India
 36,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-23-march-2036,,,,,,,,,"One (1) contact from a previously confirmed positive case, identified through tracing
 37,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-24-march-2020,,,,,,,Dubai,,Two (2) travelers from Dubai
 38,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-24-march-2020,,,,,,,Dubai,,Two (2) travelers from Dubai
-39,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-24-march-2020,,,,,,,Belgium,,"One (1) traveler who arrived from Brussels, Belgium
+39,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-24-march-2020,,,,,,,Belgium,,One (1) traveler who arrived from Brussels, Belgium
 40,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-24-march-2020,,,,,,,,,"One (1) contact from a previously confirmed positive case, who has been identified through tracing"
 41,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-25-march-2020,,,,,,,Dubai,,One (1) traveler who arrived from Dubai and has been isolated.
 42,,,,,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-26-march-2020,,,,,,,Dubai,,Five (5) travelers who arrived from Dubai and were isolated upon arrival
